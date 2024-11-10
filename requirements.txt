@@ -1,0 +1,8 @@
+aiogram==2.25.1
+numpy
+faiss-cpu
+scikit-learn
+PyMuPDF
+pdfplumber
+langchain
+prometheus_client
